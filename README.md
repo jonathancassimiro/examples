@@ -11,3 +11,6 @@ Example 1 - Nonlinear Limit State
 Example 2 - Multiple limit states
 Example 3 - Short Column
 Example 4 - Gearbox
+
+More informations:
+e-mail: jonathan.cassimiro@ufpe.br
