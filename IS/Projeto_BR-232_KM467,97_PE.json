@@ -1,0 +1,20 @@
+{
+    "tipo_estrutura": "Pontilhão",
+    "uf": "PE",
+    "municipio": "Mirandiba",
+    "rodovia": "BR-232",
+    "km": "467,97",
+    "data": "24/03/2026",
+    "ul": "Salgueiro",
+    "responsavel": "jc",
+    "L": "11,30",
+    "W": "6,10",
+    "W_util": "4,10",
+    "H_util": "3,10",
+    "H_cortina": "4,90",
+    "W_cortina": "1,00",
+    "e_laje": "0,30",
+    "W_laje": "4,80",
+    "e_pav": "0,15",
+    "L_abas": "5,20"
+}
